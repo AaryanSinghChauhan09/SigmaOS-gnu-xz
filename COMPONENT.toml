@@ -3,7 +3,7 @@ name = "SigmaOS-gnu-xz"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "gnu-xz component"
+description = "GNU XZ"
 upstream = []
 
 [contract]
